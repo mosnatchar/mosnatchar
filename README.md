@@ -1,23 +1,23 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Natchar
 
-💻 **Software Developer | [Frontend / Backend / Fullstack / Mobile / Data etc.]**  
+💻 **Software Developer | [Mobile /Frontend / Backend / Fullstack]**  
 🎯 Passionate about building scalable applications and solving real-world problems.  
-🌱 Currently exploring **[technology/framework you are learning]**  
+🌱 Currently exploring **[ Dart / Flutter ]**  
 
 ---
 
 ## 🚀 Skills & Tools
-- **Languages:** JavaScript, TypeScript, Python, Java, Swift  
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Spring Boot  
+- **Languages:** JavaScript, Swift , Java, Darf 
+- **Frameworks/Libraries:** React, Node.js, Spring Boot  
 - **Databases:** MySQL, MongoDB, PostgreSQL  
 - **Tools:** Git, Docker, Kubernetes, CI/CD, AWS  
 
 ---
 
 ## 📂 Featured Projects
-### 🔹 [Project Name 1](https://github.com/username/project1)
-Short description about what this project does, what tech was used, and what problem it solves.  
-**Tech Stack:** React, Node.js, MongoDB  
+### 🔹 [ business KTB ](https://github.com/username/project1)
+- 
+**Tech Stack:** swift, Firebase
 
 ### 🔹 [Project Name 2](https://github.com/username/project2)
 Short description about what this project does, maybe with a screenshot or demo link.  
@@ -36,7 +36,7 @@ Short description about what this project does, maybe with a screenshot or demo 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 - 🌍 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-- 📧 Email: your.email@example.com  
+- 📧 Email: mosnatchar1996@gmail.com
 
 ---
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From natchar (https://github.com/mosnatchar)
